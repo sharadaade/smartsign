@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon/icomoon.eot?68jm2p');
+  src:  url('../fonts/icomoon/icomoon.eot?68jm2p#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/icomoon.ttf?68jm2p') format('truetype'),
+    url('../fonts/icomoon/icomoon.woff?68jm2p') format('woff'),
+    url('../fonts/icomoon/icomoon.svg?68jm2p#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-autism:before {
+  content: "\e900";
+}
+.ico-carpenter:before {
+  content: "\e901";
+}
+.ico-empathy:before {
+  content: "\e902";
+}
+.ico-finish:before {
+  content: "\e903";
+}
+.ico-hospitality:before {
+  content: "\e904";
+}
+.ico-knowledge:before {
+  content: "\e905";
+}
+.ico-location:before {
+  content: "\e906";
+}
+.ico-loupe:before {
+  content: "\e907";
+}
+.ico-maps-and-flags:before {
+  content: "\e908";
+}
+.ico-mobile:before {
+  content: "\e909";
+}
+.ico-paper-plane:before {
+  content: "\e90a";
+}
+.ico-shopping-bag:before {
+  content: "\e90b";
+}
+.ico-support:before {
+  content: "\e90c";
+}
+.ico-thinking:before {
+  content: "\e90d";
+}
+.ico-time-management:before {
+  content: "\e90e";
+}
+.ico-wallet:before {
+  content: "\e90f";
+}
